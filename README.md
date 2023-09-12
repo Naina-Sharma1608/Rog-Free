@@ -40,31 +40,5 @@ Throughout the website we have tried to keep it breathable and minimalistic look
 
 <b>Languages used :</b> HTML, CSS and JAVASCRIPT
 
-</br>
-
-Github : To save and store the files for the website. </br>
-
-<a href= "https://fonts.google.com/"> Google Fonts </a> : Used for icon and fonts.
-
-<a href= "https://www.pexels.com/"> Pexels </a>: Used for stocked images.
-
-<a href= "https://ui.dev/amiresponsive"> Am I responsive? </a>: To show the website image on a range of devices.
-
-<a href ="https://hookagency.com/blog/website-color-schemes/"> Hook Agency </a>: used for picking a color scheme.
-
-</br>
-
-Github Pages was used to deploy the website: <a href="https://devanshsahni.github.io/Rog-Free/#"> Rog-Free</a>
 
 
-# Contributors
-
-Devansh Sahni :&nbsp;
-<a href= "https://github.com/DevanshSahni"> Github </a>   &nbsp;
-<a href= "https://www.linkedin.com/in/devansh-sahni-18a24121b"> LinkedIn </a>
-
-
-
-Deepa Jha : &nbsp;
-<a href= "https://github.com/Deepajha14"> Github </a> &nbsp;
-<a href= "https://www.linkedin.com/in/deepajha14/"> LinkedIn </a>
